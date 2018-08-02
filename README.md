@@ -1,4 +1,4 @@
 <h1>Tshirt Website</h1>
-not finished
+codeigniter framework not yet finished
 <h1>Heroku.com</h1>
---problem in composer.lock
+--need update composer.lock
